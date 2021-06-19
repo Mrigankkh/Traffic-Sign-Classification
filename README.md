@@ -33,4 +33,4 @@ LeNet model was used
 # Training the model
 I trained this model in an online cloud instance on Google Colab.
 
-#Prediction
+# Prediction
