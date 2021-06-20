@@ -12,11 +12,11 @@ In this project, I have classified images of German Traffic signs into their 43 
 6. Prediction
 
 #  Python Libraries
-Open CV
-Numpy
-Pandas
-Matplotlib
-Pickle
+-Open CV
+-Numpy
+-Pandas
+-Matplotlib
+-Pickle
 
 # Understanding the Dataset
 The german traffic signs dataset was used. This dataset has already - split data for training and validation. It has thousands of images of german trafic signs.
