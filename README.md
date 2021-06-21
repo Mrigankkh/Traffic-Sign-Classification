@@ -33,12 +33,21 @@ ImageGenerator was used for data augmentation i.e. to produce the images at diff
 
 # Model Architecture
 A modified version of the LeNet model was used.
-
-
+![model_arch](https://user-images.githubusercontent.com/55614154/122716871-724d8400-d288-11eb-9c8c-44a5babd135e.png)
 
 
 
 # Training the model
-I trained this model in an online cloud instance on Google Colab.
+I trained this model in an online cloud instance on Google Colab over 30 epochs.
 
 # Prediction
+
+The model achieved 95.7% accuracy.
+
+
+![Model_loss](https://user-images.githubusercontent.com/55614154/122716854-6c57a300-d288-11eb-978e-d1d4fb67ae1b.png)
+
+
+![Model_accuracy](https://user-images.githubusercontent.com/55614154/122716862-6eb9fd00-d288-11eb-9519-f1f56c004631.png)
+
+
